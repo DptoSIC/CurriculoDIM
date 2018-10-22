@@ -32,6 +32,7 @@
           <li><a href="https://erwin.com/products/erwin-data-modeler/">erwin</a> aprobado por la ATU</li>
           <li><a href="https://www.dbdesigner.net/">DbDesigner.net</a> si no es necesaria la ingeniería inversa</li>
           <li><a href="https://www.vertabelo.com/">Vertabelo</a> si se va a <a href="https://my.vertabelo.com/sign-up/create-academic">usar en un mes</a></li>
+          <li><a href="https://www.quickdatabasediagrams.com/">QuickDBD</a> si sólo se necesita un diagrama con 10 tablas máximo</li>
         </ol>
       </li>
     </ol>
