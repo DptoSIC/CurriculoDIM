@@ -1,6 +1,6 @@
 <h1>Software autorizado</h1>
 <p>La guía de referencia básica para el software aprobado es la 
-<a href="https://colabora.mdef.es/proyectos/ATU/SitePages/Productos.aspx">Arquitectura Técnica Unificada (ATU)</a>. Además de ese software y para coordinación de todas las asignaturas, se listan las herramientas con las que se puede trabajar por orden de prioridad (preferidas las primeras que se mencionen):
+<a href="https://colabora.mdef.es/proyectos/ATU/SitePages/Productos.aspx">Arquitectura Técnica Unificada (ATU)</a>. Además de ese software (instalado en los ordenadores del aula) y para coordinación de todas las asignaturas, se listan las herramientas con las que se puede trabajar por orden de prioridad (preferidas las primeras que se mencionen):
 <ol>
   <li>Lenguaje de programación</li>
     <ol>
@@ -25,8 +25,8 @@
   </li>
   <li>Herramientas CASE
     <ol>
-      <li><a href="https://www.lucidchart.com/">Lucidchart</a> (en estudio pero <a href="https://www.lucidchart.com/pages/tour">parece cumplir todos los requisitos)</a></li>
       <li><a href="https://www.draw.io/">draw.io</a> cumple con diagramas y se integra fácilmente con github</li>
+      <li><a href="https://www.lucidchart.com/">Lucidchart</a> (en estudio pero <a href="https://www.lucidchart.com/pages/tour">parece cumplir todos los requisitos)</a></li>
       <li>Sólo modelado de datos (Lucidchart admite modelado de datos)
         <ol>
           <li><a href="https://erwin.com/products/erwin-data-modeler/">erwin</a> aprobado por la ATU</li>
