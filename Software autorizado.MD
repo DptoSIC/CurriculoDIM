@@ -29,6 +29,7 @@
       <li><a href="https://www.lucidchart.com/">Lucidchart</a> (en estudio pero <a href="https://www.lucidchart.com/pages/tour">parece cumplir todos los requisitos)</a></li>
       <li>Sólo modelado de datos (Lucidchart admite modelado de datos)
         <ol>
+          <li><a href="https://www.oracle.com/es/database/technologies/appdev/datamodeler.html">Oracle Data Modeler</a>
           <li><a href="https://erwin.com/products/erwin-data-modeler/">erwin</a> aprobado por la ATU</li>
           <li><a href="https://www.dbdesigner.net/">DbDesigner.net</a> si no es necesaria la ingeniería inversa</li>
           <li><a href="https://www.vertabelo.com/">Vertabelo</a> si se va a <a href="https://my.vertabelo.com/sign-up/create-academic">usar en un mes</a></li>
