@@ -1,7 +1,14 @@
 <h1>Software autorizado</h1>
 <p>La guía de referencia básica para el software aprobado es la 
-<a href="https://colabora.mdef.es/proyectos/ATU/SitePages/Productos.aspx">Arquitectura Técnica Unificada (ATU)</a>. Además de ese software (instalado en los ordenadores del aula) y para coordinación de todas las asignaturas, se listan las herramientas con las que se puede trabajar por orden de prioridad (preferidas las primeras que se mencionen):
+<a href="https://colabora.mdef.es/proyectos/ATU/SitePages/Productos.aspx">Arquitectura Técnica Unificada (ATU)</a>. Además de ese software (instalado en los ordenadores del aula - <a href="https://gist.github.com/Awes0meM4n/c1293226a26828775e16429bac502c53">ver script</a>) y para coordinación de todas las asignaturas, se listan las herramientas con las que se puede trabajar por orden de prioridad (preferidas las primeras que se mencionen):
 <ol>
+  <li>Sistema operativo</li>
+    <ol>
+      <li><a href="https://ubuntu.com/">Ubuntu</a></li>
+      <li>Para contenedores usar <a href="https://www.docker.com/">Docker</a></li>
+      <li><a href="https://www.microsoft.com/es-es/windows-server">Windows Server</a> (educación)</li>
+    </ol>
+  </li>
   <li>Lenguaje de programación</li>
     <ol>
       <li>Java <a href="https://docs.oracle.com/javase/specs/index.html">versión 8</a></li>
@@ -20,20 +27,49 @@
   <li>Control de versiones
     <ol>
       <li><a href="https://git-scm.com">git</a></li>
+      <li><a href="https://git.institutomilitar.com">GitLab oficial del Departamento</a></li>
       <li><a href="https://github.com">gitHub</a></li>
+    </ol>
+  </li>
+  <li>Bases de datos
+    <ol>
+      <li><a href="https://www.oracle.com/">Oracle</a></li>
+      <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    </ol>
+  </li>
+  <li>DevOps
+    <ol>
+      <li>Servidor web: <a href="https://www.netlify.com/">Netlify</a></li>
+      <li>Aplicaciones: <a href="https://www.heroku.com/">Heroku</a></li>
+      <li>DB PostgreSQL: <a href="https://www.elephantsql.com/">ElephantSQL</a></li>
+    </ol>
+  </li>
+  <li>Herramientas de automatización
+    <ol>
+      <li><a href="https://gradle.org">Gradle</a></li>
+    </ol>
+  </li>
+  <li>Herramientas de testeo
+    <ol>
+      <li><a href="https://www.postman.com">Postman</a></li>
+    </ol>
+  </li>
+  <li>Frameworks, Toolkits y librerías
+    <ol>
+      <li><a href="https://spring.io/">Spring framework</a></li>
+      <li><a href="https://vuejs.org/">Vue</a></li>
+      <li><a href="https://getbootstrap.com/">Bootstrap</a></li>
+      <li><a href="https://www.primefaces.org/">PrimeFaces</a></li>
+      <li><a href="https://developer.android.com/studio/">Android Studio</a></li>
     </ol>
   </li>
   <li>Herramientas CASE
     <ol>
-      <li><a href="https://www.draw.io/">draw.io</a> cumple con diagramas y se integra fácilmente con github</li>
-      <li><a href="https://www.lucidchart.com/">Lucidchart</a> (en estudio pero <a href="https://www.lucidchart.com/pages/tour">parece cumplir todos los requisitos)</a></li>
-      <li>Sólo modelado de datos (Lucidchart admite modelado de datos)
+      <li><a href="https://www.draw.io/">draw.io</a> cumple con los diagramas y se integra fácilmente con github</li>
+      <li>Sólo modelado de datos:
         <ol>
           <li><a href="https://www.oracle.com/es/database/technologies/appdev/datamodeler.html">Oracle Data Modeler</a>
           <li><a href="https://erwin.com/products/erwin-data-modeler/">erwin</a> aprobado por la ATU</li>
-          <li><a href="https://www.dbdesigner.net/">DbDesigner.net</a> si no es necesaria la ingeniería inversa</li>
-          <li><a href="https://www.vertabelo.com/">Vertabelo</a> si se va a <a href="https://my.vertabelo.com/sign-up/create-academic">usar en un mes</a></li>
-          <li><a href="https://www.quickdatabasediagrams.com/">QuickDBD</a> si sólo se necesita un diagrama con 10 tablas máximo</li>
         </ol>
       </li>
     </ol>
@@ -41,6 +77,7 @@
   <li>Formateado HTML de código fuente: <a href="http://hilite.me/">hilite.me</a></li>
   <li>Presentación de contenidos
     <ol>
+      <li>Donde se aplique usar texto con <a href="https://www.markdownguide.org/">Markdown</a></li>
       <li>Presentación de diapositivas
         <ol>
           <li><a href="https://slides.com/">Slides</a> ya que permite tratarlo como HTML y es online</li>
@@ -53,9 +90,4 @@
       <li>Blogs</li>
     </ol>
   </li>
-</ol>
-
-<h3>Herramientas descartadas</h3>
-<ol>
-  <li><a href="https://www.gliffy.com/">gliffy</a> ya que <a href="https://support.gliffy.com/hc/en-us/articles/217895678">es necesario un dominio .edu</a></li>
 </ol>
