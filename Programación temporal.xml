@@ -1,125 +1,128 @@
-<mxfile host="app.diagrams.net" modified="2022-10-06T06:35:49.796Z" agent="5.0 (X11)" version="20.4.0" etag="xkeTert6eVLF79vqr7zq" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-14T15:28:07.272Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="QRAx-TLUYeSyaLraiQWh" version="21.6.2" type="device">
   <diagram id="0dc6a646-0274-22ec-33b9-20ee20c80cb0" name="Página-1">
-    <mxGraphModel dx="1350" dy="-34" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1362" dy="-32" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="22" value="Servicios Básicos" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410.5" y="1380" width="360" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="2" value="Algoritmos" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="294.5" y="1540.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="170.5" y="1539.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3" value="Arquitectura" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="534.5" y="1540.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="650.5" y="1539.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4" value="Redes" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="774.5" y="1540.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="650.5" y="1399.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5" value="TGBD" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="414.5" y="1540.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="530.5" y="1539.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7" value="&lt;div&gt;Seguridad TIC&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="774.5" y="1201" width="120" height="60" as="geometry" />
+          <mxGeometry x="650.5" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8" value="Redes Avanzado" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="774.5" y="1080.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="650.5" y="1080.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="10" value="ADOO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="294.5" y="1340.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="170.5" y="1339.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="13" value="Patrones de Diseño" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="294.5" y="1280.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="170.5" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="14" value="Ingeniería de Requisitos" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="294.5" y="1400.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="170.5" y="1399.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="16" value="TGSSOO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="534.5" y="1480.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="410.5" y="1479.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="18" value="SO Servidor" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="534.5" y="1400.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="410.5" y="1399.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="19" value="SQL" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="414.5" y="1400.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="530.5" y="1399.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="20" value="SGBD Oracle" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="414.5" y="1320.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="410.5" y="1219.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="23" value="BBDD NoSQL" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="654.5" y="1201" width="120" height="60" as="geometry" />
+          <mxGeometry x="530.5" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="24" value="Linux Usuario" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="654.5" y="1540.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="410.5" y="1539.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="27" value="Frontend Desktop" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="294.5" y="1080.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="410.5" y="1020.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="28" value="IPO / UX" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="414.5" y="1200.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="290.5" y="1339.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="30" value="Herramientas Colaborativas" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="654.5" y="1400.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="290.5" y="1399.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="31" value="Correo" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="774.5" y="1140.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="410.5" y="1080.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="32" value="IA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="894.5" y="1140.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="770.5" y="1080.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="33" value="OIC" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="654.5" y="1140.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="530.5" y="1080.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="34" value="TIC MINISDEF" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="894.5" y="1200.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="900" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="35" value="Seguridad Avanzado" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="774.5" y="1020" width="120" height="60" as="geometry" />
+          <mxGeometry x="650.5" y="1020.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="37" value="HTML/CSS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="414.5" y="1140.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="290.5" y="1279.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="38" value="ECMAScript" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="414.5" y="1080.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="290.5" y="1219.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="39" value="Frontend Mobile" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="294.5" y="1020" width="120" height="60" as="geometry" />
+          <mxGeometry x="290.5" y="1020.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="40" value="Serialización Texto Plano" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="414.5" y="1480.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="290.5" y="1479.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PQB86oxxboXu-u70nAmp-40" value="Teoría WS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="534.5" y="1201" width="120" height="60" as="geometry" />
+        <mxCell id="PQB86oxxboXu-u70nAmp-40" value="Teoría WS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170.5" y="1080.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="22" value="Servicios Básicos" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="414.5" y="1380" width="240" height="20" as="geometry" />
+        <mxCell id="PQB86oxxboXu-u70nAmp-41" value="Subfase de prácticas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="40" y="980" width="980" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="PQB86oxxboXu-u70nAmp-41" value="Subfase de prácticas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="160" y="980" width="854.5" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="PQB86oxxboXu-u70nAmp-42" value="Fase de selección" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1620" width="854.5" height="20" as="geometry" />
+        <mxCell id="PQB86oxxboXu-u70nAmp-42" value="Fase de selección" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1620" width="980" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6" value="POO Fundamentos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="294.5" y="1480.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="170.5" y="1479.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9" value="Dirección Proyectos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="160" y="1020" width="120" height="460.5" as="geometry" />
-        </mxCell>
-        <mxCell id="17" value="BPMN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="894.5" y="1080.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="1020" width="120" height="460.5" as="geometry" />
         </mxCell>
         <mxCell id="25" value="&lt;div&gt;Backend&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="534.5" y="1140.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="170.5" y="1020.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="29" value="Librerías" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="294.5" y="1200.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="170.5" y="1219.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="36" value="Frontend Web" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="414.5" y="1020.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="26" value="Aplicaciones Distribuidas" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="294.5" y="1260.5" width="720" height="20" as="geometry" />
+          <mxGeometry x="290.5" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="12" value="Fundamentos Análisis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="294.5" y="1460.5" width="360" height="20" as="geometry" />
+          <mxGeometry x="170.5" y="1459.5" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YdTbLXh4fwOpAaDPjJgp-40" value="Realidad Extendida" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="900" y="1020.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="BPMN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="900" y="1080.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="26" value="Aplicaciones Distribuidas" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170.5" y="1199.5" width="600" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
